@@ -1,3 +1,3 @@
 # Templo-Jedi
 Espacio de aprendizaje para programación.
-EDICIón numero uno realizada por Samuel
+Edición numero uno realizada por Samuel
